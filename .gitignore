@@ -183,3 +183,4 @@ FakesAssemblies/
 *.lock.json
 *.nuget.props
 *.nuget.targets
+*.vscode
